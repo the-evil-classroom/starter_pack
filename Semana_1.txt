@@ -1,0 +1,14 @@
+﻿TAREA SEMANAL 07/01/2020
+
+- Instalación ubuntu:
+	Tienes que instalar ubuntu en un ordenador que cumpla con los requisitos minimos de instalación. Tiene que ir fluido.
+
+- Instalación:
+    • Discord.
+    • Entorno de desarrollo (Atom, Visual Studio Code), te recomiendo visual, es el mas completo y mejor.
+
+- Create una cuenta en Github. https://github.com/  y si no sabes para lo que se usa github, se usa para crear repositorios en la nube y poder tener tu codigo siempre guardado correctamente. La tarea de esto:
+    • Investigar sobre qué es ‘git’ y para que se usa.
+    • *TODO EN CONSOLA*  Crear un archivo ‘.txt’ en el que aparezca la definición de git, para que se utiliza, los pasos a seguir para subir datos a un repositorio. Si no te acuerdas de los comandos para crear un archivo de texto, o para moverte entre los directorios de linux, Google es tu mejor amigo para descubrir todo eso, unas pistas: ls, cd, touch, vim.
+
+Git no es ninguna tontería, es dificil y te va a costar entenderlo pero prestale mucha atención porque vas a trabajar con ello todos los dias a partir de ahora.
